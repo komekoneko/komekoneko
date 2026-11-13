@@ -7,5 +7,6 @@
 ![skills](https://skillicons.dev/icons?i=html,css,js,ts,react,git,github)
 
 ### Works
-- [Onsen_SentoApp](https://github.com/komekoneko/Onsen_SentoApp) - 温泉・銭湯特化のアプリ
+
+- [Boombox-App-TypeScript-](https://github.com/komekoneko/BoomboxApp) - TypeScriptで作るBoombox App
 - [Todo-App-TypeScript-](https://github.com/komekoneko/Todo-App-TypeScript-) - TypeScriptで作るTodo App
